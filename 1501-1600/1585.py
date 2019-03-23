@@ -1,4 +1,4 @@
-
+# numeros Balanceados
 import sys
 
 if __name__ == '__main__':
@@ -17,8 +17,7 @@ if __name__ == '__main__':
 
         X.sort()
         Y.sort()
-        """ una vez ordenados lo que procede es que contamos las rectas en este 
-        intervalo: ]0 , n[
+        """ una vez ordenados lo que procede es que contamos las rectas en este intervalo: ]0 , n[
         una vez que obtengamos la cantidad tanto en x como en y
         imcrementamos cada cantidad en 1 para asi obtener el resultado """
         rx = 0
